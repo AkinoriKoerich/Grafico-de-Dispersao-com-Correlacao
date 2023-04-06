@@ -1,2 +1,2 @@
 # Grafico-de-Dispersao-com-Correlacao
-Um programa simples em R que carrega um conjunto de dados, faz um gráfico de dispersão e calcula a correlação entre as variáveis.
+## Este código carrega o conjunto de dados "mtcars" pré-instalado no R e cria um gráfico de dispersão de "mpg" vs "wt" usando o pacote ggplot2. Em seguida, o programa calcula a correlação entre as variáveis "mpg" e "wt" e imprime o valor na tela usando a função cat(). O resultado final deve ser um gráfico de dispersão com os pontos representando a relação entre as duas variáveis e o valor da correlação impresso na tela.
